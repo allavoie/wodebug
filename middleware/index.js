@@ -26,5 +26,8 @@ module.exports = {
   },
   console: {
     log: function(){},
+  },
+  report: function(){
+    // report stats usage like api usage and users action over (like debug activation for a request or on the server)
   }
 };
