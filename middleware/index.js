@@ -1,4 +1,6 @@
 // file ./wodebug/myapp.json used for config
+// Or find in package.json under wo.wodebug
+// And display choice on first wo log
 // express usage
 // app.use(wodebug.init('myapp').middleware);
 const _ = require('lodash');
